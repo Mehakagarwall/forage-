@@ -1,4 +1,4 @@
-# forage-
+# customer risk analysis-
 
  ## Churn Customers :
 1,869 customers have churned i.e. 26.5% , out of which 380 customers churned last month itself.
